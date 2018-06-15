@@ -1,3 +1,3 @@
 ## OpenElectoralMap
 
-{% include map_335circo.html %}
+{% include generated_map/map_335circo.html %}

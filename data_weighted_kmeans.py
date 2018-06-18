@@ -224,7 +224,7 @@ def kmeans_evolution_weighted(points, centers, k, distance_method=distance_try, 
 
     #print("DONE")
     #print("Iterations: ", it_num)
-    #pprint.pprint(centers)
+    #print.pprint(centers)
     #print("RATIO : ", min_pop, max_pop, round(max_pop/min_pop, 4))
     #print("POPS: ", pops)
 
